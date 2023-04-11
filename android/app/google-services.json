@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981231119587",
+    "project_id": "secondloginapp-1440d",
+    "storage_bucket": "secondloginapp-1440d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981231119587:android:180769278e27cf68aba9d6",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981231119587-50scpcdciue5ujkfhcnj50jrje2mms6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx8d5lpfxKWFsdpzFTRK0SdCumFmEt6P0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981231119587-50scpcdciue5ujkfhcnj50jrje2mms6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
